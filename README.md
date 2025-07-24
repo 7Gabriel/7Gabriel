@@ -4,7 +4,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-222?logo=github&logoColor=white)](https://github.com/7Gabriel)
 
 ## 🚀 Sobre mim
-Co-Founder da Orch-Mind
+Co-Founder da Orch-Mind.
+
 Com sólida experiência em desenvolvimento de software e profundo domínio em plataformas de nuvem como **AWS** e **GCP**, lidero projetos inovadores na Porto, sempre focado em criar soluções tecnológicas eficientes, sustentáveis e alinhadas às melhores práticas de arquitetura e DevOps. Minha atuação é guiada pela paixão por inovação, tecnologia e pelo impacto positivo nos negócios.
 
 ---
